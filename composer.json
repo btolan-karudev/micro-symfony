@@ -1,0 +1,13 @@
+{
+    "name": "knp/micro-symfony",
+    "require": {
+        "symfony/symfony": "^2.7",
+        "sensio/framework-extra-bundle": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Beniamin Tolan",
+            "email": "b.tolan@karudev-informatique.fr"
+        }
+    ]
+}
