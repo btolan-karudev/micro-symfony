@@ -9,5 +9,10 @@
             "name": "Beniamin Tolan",
             "email": "b.tolan@karudev-informatique.fr"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "AppBundle\\": "AppBundle/"
+        }
+    }
 }

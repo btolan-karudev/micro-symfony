@@ -4,7 +4,7 @@ use Symfony\Component\Debug\Debug;
 
 umask(0000);
 
-$loader = require_once __DIR__.'/../vendor/autoload.php';
+$loader = require_once __DIR__.'/../config/autoload.php';
 require_once __DIR__.'/../AppKernel.php';
 
 // load the environmental variables
